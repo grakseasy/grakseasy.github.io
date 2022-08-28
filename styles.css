@@ -1,0 +1,110 @@
+html, body {
+    overflow-x: hidden;
+}
+.cont {
+    width: 80%;
+}
+.about {
+    width: 420px;
+}
+.skills {
+    width: 720px;
+}
+.projects {
+    width: 720px;
+}
+.logo {
+    border-radius: 50%;
+}
+.divBlock {
+    display: block;
+}
+.logoDiv {
+    width: 400px;
+    margin: auto;
+    font-weight: 100;
+    
+}
+
+.divInline {
+    display: inline;
+}
+.fweight {
+    font-weight: 900;
+}
+.fontSize {
+    font-size: small;
+}
+.fontSize2 {
+    font-size:medium;
+    font-weight: bold;
+}
+.fntw {
+    font-weight: 700;
+}
+.fontsize3 {
+    font-size: larger;
+}
+.fsize4 {
+    font-size: 50px;
+}
+.firstSection {
+
+    color: white;
+    font-weight: 700;
+   -webkit-text-stroke:0.3px;
+   -webkit-text-stroke-color: rgb(14, 13, 13);   
+
+}
+.font {
+    
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    
+}
+.bluebg {
+    background-color: rgb(3, 33, 89);
+}
+.bluebg1 {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,108,1) 60%);
+}
+.boja {
+    color: rgb(236, 56, 91);
+}
+.crvenabg {
+    background-color: rgb(236, 56, 91);
+}
+.siva {
+    color: rgb(255, 255, 255);
+    /* -webkit-text-stroke:0.1px;
+   -webkit-text-stroke-color: rgb(12, 11, 11); */
+   -webkit-text-stroke: 0.4px;
+   -webkit-text-stroke-color: rgb(20, 7, 97);
+}
+.stroke {
+    -webkit-text-stroke: 0.4px;
+   -webkit-text-stroke-color: rgb(20, 7, 97);
+}
+.stroke2 {
+    -webkit-text-stroke: 0.2px;
+   -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+.stroke3 {
+    -webkit-text-stroke: 0.2px;
+   -webkit-text-stroke-color: rgb(8, 0, 116);
+}
+.plava {
+    color: rgb(33, 48, 94);
+}
+.radius {
+    border-radius: 20px;
+}
+
+.bt:hover {
+    /* color: rgb(238, 36, 120); */
+        background-color: rgb(0, 0, 0);
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,108,1) 60%); */
+
+}

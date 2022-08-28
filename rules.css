@@ -1,0 +1,63 @@
+/* FIRST IMAGE */
+@media screen and (min-width: 1080px) {
+    img.avatar {
+        height: 690px;
+        width: 970px;
+        margin-right: 80px;
+        }
+  }
+@media screen and (max-width: 414px) {
+    img.avatar {
+        height: 270px;
+        width: 390px;
+        margin-left: 120;
+        
+        }
+  }
+@media screen and (max-width: 375px) {
+    img.avatar {
+        height: 270px;
+        width: 390px;
+     
+        }
+  }
+  /* SECOND IMAGE */
+@media screen and (min-width: 1080px) {
+    img.avatar2 {
+        height: 500px;
+        width: 690px;
+        
+        }
+  }
+  @media screen and (max-width: 844px) {
+    img.avatar2 {
+        height: 470px;
+        width: 590px;
+        
+        }
+        div.cont, div.about, div.skills {
+          width: 100%;
+    }
+  }
+  @media screen and (max-width: 414px) {
+    img.avatar2 {
+        height: 270px;
+        width: 390px;
+        
+        }
+        div.cont, div.about, div.skills {
+          width: 100%;
+        }
+  }
+  @media screen and (max-width: 375px) {
+    img.avatar2 {
+        height: 270px;
+        width: 390px;
+        margin-right: 80px;
+        }
+        div.cont, div.about, div.skills {
+          width: 100%;
+        }
+
+  }
+
