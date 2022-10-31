@@ -1,5 +1,5 @@
 
-alert('this website is a work in progress!');
+// alert('This website is a work in progress!');
 
 function send() {
     let msg = document.querySelector('.msg');

@@ -100,10 +100,17 @@ html, body {
 .radius {
     border-radius: 20px;
 }
-
+.bt {
+    opacity: 1;
+    background-color: rgb(33, 48, 94);
+    transition: 0.3s;
+    color: white;
+}
 .bt:hover {
     /* color: rgb(238, 36, 120); */
-        background-color: rgb(0, 0, 0);
+    opacity: 1;
+    background-color: rgb(236, 56, 91);
+    color: white;
     /* background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,108,1) 60%); */
 
